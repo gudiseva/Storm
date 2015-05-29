@@ -42,13 +42,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Storm Files
+# Files ignored by Arvind Gudiseva
 config.properties
 *.class
 *.jar
 *.lst
-/.idea
 .idea/
-.idea\
-.idea/libraries/
-.idea\libraries\
